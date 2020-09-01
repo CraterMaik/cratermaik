@@ -1,16 +1,35 @@
-### Hi there 👋
+### Hi there I am CraterMaik :D
 
-<!--
-**CraterMaik/cratermaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently working on [portalmybot](https://portalmybot.com)
+- 📫 Come join my [Discord Server](https://portalmybot.com/discord) to have some talk :)
+- 😄 Pronouns: Crater, Maik
+- ⚡ Fun fact: I like gaming and music indie
+---
 
-Here are some ideas to get you started:
+### Some of my Projects :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Name | Source | Description
+--- | --- | ---
+PortalMyBOT | [Web](https://portalmybot.com) | Web platform
+PortalMyBOT Codes | [Web](https://portalmybot.com/codes) | Code web platform
+PortalMyBOT List | [Web](https://portalmybot.com/mybotlist) | Bot discord web platform
+MyBOT Team | [Web](https://portalmybot.com/team) | Community on Discord
+MyPRO | [GitHub](https://github.com/CraterMaik/mypro) [Web](https://mypro-discord.glitch.me/) | Project listing platform
+MyDash | [GitHub](https://github.com/CraterMaik/myDash) [Web](https://mydash.glitch.me/) | Platform through the use of Discord bots.
+CraterMaik's Discord | [Discord](https://discord.gg/Y8ePQ6z) | List of more projects
+
+---
+
+### Social Media
+
+- Mail: team@portalmybot.com
+- GitHub: [@cratermaik](https://github.com/cratermaik)
+- Discord Server: [MyBOT Team](https://portalmybot.com/discord)
+- YouTube: [CraterMaik](https://youtube.com/cratermaik)
+- Twitter: [CraterMaik](https://twitter.com/cratermaik)
+- Instagram: [CraterMaik](https://instagram.com/crater.maik)
+- Steam: [CraterMaik](https://steamcommunity.com/id/cratermaik/)
+- Twitch: [CraterMaik](https://www.twitch.tv/cratermaik)
+- Patreon: [CraterMaik](https://www.patreon.com/cratermaik)
+- Reddit: [u/CraterMaik](https://www.reddit.com/user/cratermaik)
+
