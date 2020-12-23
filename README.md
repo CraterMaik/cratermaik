@@ -1,35 +1,33 @@
-### Hi there I am CraterMaik :D
+## Hi there I am CraterMaik
 
-- 🔭 I'm currently working on [portalmybot](https://portalmybot.com)
-- 📫 Come join my [Discord Server](https://portalmybot.com/discord) to have some talk :)
-- 😄 Pronouns: Crater, Maik
-- ⚡ Fun fact: I like gaming and music indie
----
+I'm currently working on [portalmybot](https://portalmybot.com) 
 
-### Some of my Projects :)
+#### Programming:
+<img align="left" alt="Php" width="32px" src="https://api.iconify.design/mdi:language-php.svg?color=%2300fef4&height=32" />
+<img align="left" alt="C#" width="32px" src="https://api.iconify.design/mdi:language-csharp.svg?color=%2300fef4&height=32" />
+<img align="left" alt="Node.js" width="26px" src="https://api.iconify.design/mdi:nodejs.svg?color=%2300fef4&height=32" />
+<img align="left" alt="Database" width="26px" src="https://api.iconify.design/mdi:database.svg?color=%2300fef4&height=32" />
+<img align="left" alt="JavaScript" width="32px" src="https://api.iconify.design/mdi:language-javascript.svg?color=%2300fef4&height=32" />
+<img align="left" alt="HTML5" width="32px" src="https://api.iconify.design/mdi:language-html5.svg?color=%2300fef4&height=32" />
+<img align="left" alt="CSS3" width="32px" src="https://api.iconify.design/mdi:language-css3.svg?color=%2300fef4&height=32" />
 
-Name | Source | Description
---- | --- | ---
-PortalMyBOT | [Web](https://portalmybot.com) | Web platform
-PortalMyBOT Codes | [Web](https://portalmybot.com/codes) | Code web platform
-PortalMyBOT List | [Web](https://portalmybot.com/mybotlist) | Bot discord web platform
-MyBOT Team | [Web](https://portalmybot.com/team) | Community on Discord
-MyPRO | [GitHub](https://github.com/CraterMaik/mypro) [Web](https://mypro-discord.glitch.me/) | Project listing platform
-MyDash | [GitHub](https://github.com/CraterMaik/myDash) [Web](https://mydash.glitch.me/) | Platform through the use of Discord bots.
-CraterMaik's Discord | [Discord](https://discord.gg/Y8ePQ6z) | List of more projects
+[website]: https://portalmybot.com
+[twitter]: https://twitter.com/cratermaik
+[discord]: https://portalmybot.com/discord
+[twitch]: https://www.twitch.tv/cratermaik
+[patreon]: https://www.patreon.com/cratermaik
+[instagram]: https://instagram.com/crater.maik
 
----
+<br />
 
-### Social Media
+#### Followme:
 
-- Mail: team@portalmybot.com
-- GitHub: [@cratermaik](https://github.com/cratermaik)
-- Discord Server: [MyBOT Team](https://portalmybot.com/discord)
-- YouTube: [CraterMaik](https://youtube.com/cratermaik)
-- Twitter: [CraterMaik](https://twitter.com/cratermaik)
-- Instagram: [CraterMaik](https://instagram.com/crater.maik)
-- Steam: [CraterMaik](https://steamcommunity.com/id/cratermaik/)
-- Twitch: [CraterMaik](https://www.twitch.tv/cratermaik)
-- Patreon: [CraterMaik](https://www.patreon.com/cratermaik)
-- Reddit: [u/CraterMaik](https://www.reddit.com/user/cratermaik)
+[<img align="left" alt="snazzah.com" width="32px" src="https://api.iconify.design/bi:globe.svg?color=%2300fef4&height=32" />][website]
+[<img align="left" alt="Twitter" width="32px" src="https://api.iconify.design/mdi:twitter.svg?color=%2300fef4&height=32" />][twitter]
+[<img align="left" alt="Discord" width="32px" src="https://api.iconify.design/mdi:discord.svg?color=%2300fef4&height=32" />][discord]
+[<img align="left" alt="Twitch" width="32px" src="https://api.iconify.design/mdi:twitch.svg?color=%2300fef4&height=32" />][twitch]
+[<img align="left" alt="Patreon" width="32px" src="https://api.iconify.design/mdi:patreon.svg?color=%2300fef4&height=32" />][patreon]
+[<img align="left" alt="Patreon" width="32px" src="https://api.iconify.design/mdi:instagram.svg?color=%2300fef4&height=32" />][instagram]
+
+
 
