@@ -29,5 +29,10 @@ I'm currently working on [portalmybot](https://portalmybot.com)
 [<img align="left" alt="Patreon" width="32px" src="https://api.iconify.design/mdi:patreon.svg?color=%2300fef4&height=32" />][patreon]
 [<img align="left" alt="Patreon" width="32px" src="https://api.iconify.design/mdi:instagram.svg?color=%2300fef4&height=32" />][instagram]
 
+<br />
 
+---
 
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cratermaik&show_icons=true&count_private=true&hide_border=true&icon_color=fff&bg_color=05B281&title_color=fff&text_color=fff" />
+</div>
