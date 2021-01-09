@@ -46,8 +46,6 @@ I'm currently working on [portalmybot](https://portalmybot.com) <div>[![GitHub c
 [<img align="left" alt="Twitch" width="32px" src="https://api.iconify.design/mdi:twitch.svg?color=%2300fef4&height=32" />][twitch]
 [<img align="left" alt="Patreon" width="32px" src="https://api.iconify.design/mdi:patreon.svg?color=%2300fef4&height=32" />][patreon]
 [<img align="left" alt="Instagram" width="32px" src="https://api.iconify.design/mdi:instagram.svg?color=%2300fef4&height=32" />][instagram]
-<img align="left" alt="CSS3" width="32px" src="https://api.iconify.design/mdi:language-css3.svg?color=%2300fef4&height=32" />
-
 
 <br /><br />
 
