@@ -1,6 +1,6 @@
 ## Hi there I am CraterMaik
 
-I'm currently working on [portalmybot](https://portalmybot.com) 
+I'm currently working on [portalmybot](https://portalmybot.com) <div>[![GitHub cratermaik](https://img.shields.io/github/followers/cratermaik?label=follow&style=social)](https://github.com/cratermaik) ![](https://komarev.com/ghpvc/?username=cratermaik&color=green)</div>
 
 ### Programming:
 <p>
