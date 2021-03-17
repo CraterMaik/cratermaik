@@ -67,10 +67,5 @@ HTML         2 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <p align="center">
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cratermaik&layout=compact)](https://github.com/cratermaik)
-
-</p>
-<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cratermaik&show_icons=true&count_private=true&hide_border=true&icon_color=fff&bg_color=05B281&title_color=fff&text_color=fff" />
 </p>
