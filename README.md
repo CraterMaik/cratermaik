@@ -54,6 +54,10 @@ I'm currently working on [portalmybot](https://portalmybot.com) <div>[![GitHub c
 <br /><br />
 
 ---
+<div align="center">
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</div>
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cratermaik&show_icons=true&count_private=true&hide_border=true&icon_color=fff&bg_color=05B281&title_color=fff&text_color=fff" />
