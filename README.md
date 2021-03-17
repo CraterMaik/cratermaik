@@ -10,9 +10,10 @@ I'm currently working on [portalmybot](https://portalmybot.com) <div>[![GitHub c
 <p>
   <img align="left" alt="Php" width="32px" src="https://api.iconify.design/mdi:language-php.svg?color=%2300fef4&height=32" />
   <img align="left" alt="C#" width="32px" src="https://api.iconify.design/mdi:language-csharp.svg?color=%2300fef4&height=32" />
-  <img align="left" alt="Node.js" width="26px" src="https://api.iconify.design/mdi:nodejs.svg?color=%2300fef4&height=32" />
-  <img align="left" alt="Database" width="26px" src="https://api.iconify.design/mdi:database.svg?color=%2300fef4&height=32" />
   <img align="left" alt="JavaScript" width="32px" src="https://api.iconify.design/mdi:language-javascript.svg?color=%2300fef4&height=32" />
+  <img align="left" alt="Database" width="26px" src="https://api.iconify.design/mdi:database.svg?color=%2300fef4&height=32" />
+  <img align="left" alt="Go" width="32px" src="https://api.iconify.design/mdi:language-go.svg?color=%2300fef4&height=32" />
+   <img align="left" alt="Java" width="26px" src="https://api.iconify.design/mdi:language-java.svg?color=%2300fef4&height=32" />
   <img align="left" alt="HTML5" width="32px" src="https://api.iconify.design/mdi:language-html5.svg?color=%2300fef4&height=32" />
   <img align="left" alt="CSS3" width="32px" src="https://api.iconify.design/mdi:language-css3.svg?color=%2300fef4&height=32" />
 </p>
@@ -23,8 +24,8 @@ I'm currently working on [portalmybot](https://portalmybot.com) <div>[![GitHub c
 
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-   <img alt="Vuejs" src="https://img.shields.io/badge/-Vue-13aa52?style=flat-square&logo=vue.js&logoColor=white" />
-   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FB542B?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="Vuejs" src="https://img.shields.io/badge/-Vue-13aa52?style=flat-square&logo=vue.js&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FB542B?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -59,6 +60,11 @@ I'm currently working on [portalmybot](https://portalmybot.com) <div>[![GitHub c
   <!--END_SECTION:waka-->
 </div>
 
-<div align="center">
+<p align="center">
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cratermaik&layout=compact)](https://github.com/cratermaik)
+
+</p>
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cratermaik&show_icons=true&count_private=true&hide_border=true&icon_color=fff&bg_color=05B281&title_color=fff&text_color=fff" />
-</div>
+</p>
