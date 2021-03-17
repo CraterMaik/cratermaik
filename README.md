@@ -1,4 +1,8 @@
-## Hi there I am CraterMaik
+<h2 align="center">👋 Hello! I'm  CraterMaik.</h2>
+<p align="center">
+  <a href="https://portalmybot.com">Website</a> •
+  <a href="https://twitter.com/cratermaik">Twitter</a>
+</p>
 
 I'm currently working on [portalmybot](https://portalmybot.com) <div>[![GitHub cratermaik](https://img.shields.io/github/followers/cratermaik?label=follow&style=social)](https://github.com/cratermaik) ![](https://komarev.com/ghpvc/?username=cratermaik&color=green)</div>
 
