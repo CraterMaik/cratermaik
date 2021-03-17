@@ -55,10 +55,9 @@ I'm currently working on [portalmybot](https://portalmybot.com) <div>[![GitHub c
 <br /><br />
 
 ---
-<div align="center">
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
-</div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <p align="center">
   
