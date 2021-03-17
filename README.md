@@ -59,11 +59,11 @@ I'm currently working on [portalmybot](https://portalmybot.com) <div>[![GitHub c
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   8 hrs 50 mins   █████████████████▒░░░░░░░   69.60 % 
-PHP          3 hrs 31 mins   ███████░░░░░░░░░░░░░░░░░░   27.72 % 
-JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-TypeScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-HTML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+JavaScript   8 hrs 50 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀   69.60 % 
+PHP          3 hrs 31 mins   ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.72 % 
+JSON         12 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.61 % 
+TypeScript   5 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.69 % 
+HTML         2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.28 % 
 ```
 <!--END_SECTION:waka-->
 
