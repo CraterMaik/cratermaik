@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm  CraterMaik.</h2>
 <p align="center">
-  <a href="https://portalmybot.com">Website</a> •
+  <a href="https://cratermaik.me/">Website</a> •
   <a href="https://twitter.com/cratermaik">Twitter</a>
 </p>
 
