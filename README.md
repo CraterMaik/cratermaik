@@ -60,9 +60,7 @@ I'm currently working on [portalmybot](https://portalmybot.com) <div>[![GitHub c
 <!--START_SECTION:waka-->
 
 ```txt
-Python     5 hrs 39 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶   98.43 %
-Text       4 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.17 %
-Markdown   1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.41 %
+Python   25 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
 ```
 
 <!--END_SECTION:waka-->
